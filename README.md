@@ -1,11 +1,19 @@
 # Network-Graph-Theory
 
+Programming Language and Tool:
+#### "Python(Networkx, pandas, numpy, matplotlib), and jupyter Notebook"
+
+
+<br>
 This contains following type of Network/Graph and analysis of their Characteristic:
 
 1. Real Un-Directed Network
 2. Real Directed Network
 3. Random Graph
 4. Watts Strogatz Small World Model
+
+
+
 
 
 Characteristics are:
